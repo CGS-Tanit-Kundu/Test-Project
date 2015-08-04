@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         println("Hello IT1002");
         
+        println("hello")
+        
+        
         
     }
 
